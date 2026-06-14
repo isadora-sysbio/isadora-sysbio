@@ -32,7 +32,8 @@ These projects aim to build reproducible, research-style computational workflows
 - Jupyter Notebooks  
 - Git & GitHub  
 - Basic statistical analysis  
-- Introductory bioinformatics workflows  
+- Introductory bioinformatics workflows
+- R (expanding for RNA-seq and Bioconductor-based analysis)
 
 ---
 
