@@ -60,5 +60,7 @@ Focused on building a portfolio of reproducible bioinformatics projects that dem
 ## Featured Projects
 
 🧬 Breast Cancer RNA-seq Differential Expression Analysis
+
 🧪 RNA-seq Differential Expression Pipeline
+
 📊 Cancer Gene Expression Analysis
