@@ -55,7 +55,9 @@ Focused on building a portfolio of reproducible bioinformatics projects that dem
 - Gradual progression into computational genomics methods  
 - Awareness of ethical considerations in genetic data analysis  
 
-Featured Projects
+---
+
+## Featured Projects
 
 🧬 Breast Cancer RNA-seq Differential Expression Analysis
 🧪 RNA-seq Differential Expression Pipeline
