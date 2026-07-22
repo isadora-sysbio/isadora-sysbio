@@ -1,4 +1,4 @@
-Hi, I’m Isadora 👋
+## Hi, I’m Isadora 👋
 
 Medical doctor developing expertise in translational genomics, cancer bioinformatics, and precision medicine.
 
