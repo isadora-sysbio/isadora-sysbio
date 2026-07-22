@@ -1,66 +1,123 @@
-# Hey, I’m Isadora 
+Hi, I’m Isadora 👋
 
-Medical doctor (UPAP) transitioning into computational genomics and cancer bioinformatics. 🧬
+Medical doctor developing expertise in translational genomics, cancer bioinformatics, and precision medicine.
 
-I am building practical skills in bioinformatics, data analysis, and machine learning to better understand disease at the molecular level and contribute to translational medicine, with a strong interest in the ethical implications of genomic data use.
+I use computational methods to investigate how molecular differences in human disease can support biomarker discovery, disease stratification, and clinically meaningful research.
 
----
+My current work focuses on transcriptomics, reproducible RNA-seq analysis, and biological interpretation in cancer. Long term, I aim to work at the intersection of medicine, human genetics, genomics, and data science—connecting computational findings with experimental research and, ultimately, better-informed patient care.
 
-## 🧠 Focus Areas
-- Cancer gene expression analysis  
-- RNA-seq data analysis workflows  
-- Differential gene expression (bulk transcriptomics)  
-- Machine learning for biological data  
-- Ethical, clinical, and societal implications of genomic data  
+Computational in method. Translational in purpose.
 
----
+## 🧬 Research interests
 
-## 🧪 Current Work
-I am actively developing and documenting hands-on projects in Python, including:
+Translational genomics and precision medicine
 
-- RNA-seq differential expression analysis pipelines  
-- Cancer vs normal gene expression comparison  
-- Exploratory analysis of transcriptomic datasets  
-- Basic machine learning models for genomic prediction  
+Cancer genomics and transcriptomics
 
-These projects aim to build reproducible, research-style computational workflows while maintaining awareness of responsible and ethical use of genomic data.
+Biomarker discovery and molecular stratification
 
----
+Human genetics and immunogenomics
 
-## 💻 Technical Skills (growing)
-- Python (pandas, numpy, matplotlib, scikit-learn)  
-- Jupyter Notebooks  
-- Git & GitHub  
-- Basic statistical analysis  
-- Introductory bioinformatics workflows
-- R (expanding for RNA-seq and Bioconductor-based analysis)
+Reproducible bioinformatics
 
----
+Ethical use of genomic and clinical data
 
-## 🎯 Goals
-To bridge clinical medicine and computational biology by developing strong foundations in:
+## 🔬 Featured project
 
-- Genomics and transcriptomics  
-- Data-driven cancer biology  
-- Machine learning in biomedical data  
-- Translational research applications  
-- Ethical use of genetic and clinical data in computational medicine  
+Breast Cancer RNA-seq Differential Expression Analysis
 
----
+A reproducible public-data reanalysis comparing transcriptomic differences between estrogen receptor-positive breast cancer and triple-negative breast cancer.
 
-## 📌 Current Direction
-Focused on building a portfolio of reproducible bioinformatics projects that demonstrate:
-- Clean and interpretable data analysis workflows  
-- Biological interpretation of results  
-- Gradual progression into computational genomics methods  
-- Awareness of ethical considerations in genetic data analysis  
+Core workflow:
 
----
+Cohort selection and metadata curation
 
-## Featured Projects
+RNA-seq quality assessment
 
-🧬 Breast Cancer RNA-seq Differential Expression Analysis
+Transcript quantification with Salmon
 
-🧪 RNA-seq Differential Expression Pipeline
+Gene-level import with tximport
 
-📊 Cancer Gene Expression Analysis
+Differential expression analysis with DESeq2
+
+PCA, volcano plot, and heatmap visualization
+
+GO Biological Process enrichment with clusterProfiler
+
+Biological interpretation and transparent discussion of limitations
+
+Research purpose: to explore subtype-associated molecular patterns and their potential relevance to cancer biology, biomarker research, and translational medicine.
+
+## 📂 Additional projects
+
+RNA-seq Differential Expression Pipeline
+
+An educational RNA-seq workflow documenting the progression from raw sequencing reads through quality control, alignment, file processing, read counting, and count-matrix generation.
+
+Cancer Gene Expression Analysis
+
+A Python-based analysis of breast cancer gene-expression data from METABRIC, combining exploratory data analysis, visualization, and biological interpretation.
+
+## 🛠️ Technical toolkit
+
+Programming and analysis
+
+R
+
+Python
+
+Bash/Linux
+
+Jupyter Notebook
+
+Bioinformatics and genomics
+
+RNA-seq analysis
+
+Transcript quantification
+
+Differential gene expression
+
+Functional enrichment analysis
+
+Gene-expression visualization
+
+Public genomic data resources
+
+Tools and reproducibility
+
+Salmon
+
+tximport
+
+DESeq2
+
+clusterProfiler
+
+FastQC and MultiQC
+
+HISAT2, SAMtools, and featureCounts
+
+Conda
+
+Git and GitHub
+
+## 🎯 Current direction
+
+I am currently working to:
+
+Deepen my biological and clinical interpretation of genomic data
+
+Expand from transcriptomics toward human genetics, immunogenomics, and multi-omics
+
+Develop projects connecting molecular patterns with biomarkers and disease mechanisms
+
+Strengthen reproducible research and scientific communication
+
+Prepare for graduate research in translational genomics and precision medicine
+
+## 🩺 Background
+
+I am a medical graduate from UPAP in Paraguay, building a research profile at the intersection of medicine, genomics, and data analysis.
+
+My goal is not to leave medicine behind, but to use medical reasoning alongside computational and molecular approaches to study human disease more meaningfully.
